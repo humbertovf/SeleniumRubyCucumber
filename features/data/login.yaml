@@ -1,0 +1,18 @@
+Login_data_set1:
+  username: "Admin"
+  password: "admin123"
+Login_data_set2:
+  username: "admin"
+  password: "admin123"
+Login_data_set3:
+  username: "Admin"
+  password: "Admin123"
+Login_data_set4:
+  username: ""
+  password: ""
+Login_data_set5:
+  username: ""
+  password: "admin123"
+Login_data_set6:
+  username: "Admin"
+  password: ""
