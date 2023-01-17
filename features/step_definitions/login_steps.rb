@@ -1,6 +1,7 @@
 Given(/^a user lands on login page$/) do
 
   @loginPage = LoginPage.new(@browser)
+  @forgotPswPage = ForgotPswPage.new(@browser)
   @dashboardPage = DashboardPage.new(@browser)
   @loginPage.navigate_to
 end

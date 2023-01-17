@@ -31,4 +31,8 @@ module LoginPage_module
     @browser.elements(css: "span.oxd-input-field-error-message")
   end
 
+  def forgotPasswordLink
+    @browser.element(css: "p.orangehrm-login-forgot-header")
+  end
+
 end

@@ -31,4 +31,8 @@ class LoginPage
   def getRequiredFieldsErrorMsg
     return requiredFieldsErrorMsg
   end
+
+  def clickForgotPasswordLink
+    forgotPasswordLink.click
+  end
 end

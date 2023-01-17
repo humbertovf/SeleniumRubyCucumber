@@ -1,0 +1,12 @@
+ForgotPsw_data_set1:
+  username: "Admin"
+ForgotPsw_data_set2:
+  username: "admin"
+ForgotPsw_data_set3:
+  username: ""
+ForgotPsw_data_set4:
+  username: 12345
+ForgotPsw_data_set5:
+  username: "$&#*@"
+ForgotPsw_data_set6:
+  username: "$&#*@12345"
