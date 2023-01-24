@@ -5,7 +5,7 @@ class LoginPage
 
   def initialize(browser)
     @browser = browser
-    @data = Data.new
+    @data = DataRecord.new
   end
 
   def navigate_to

@@ -5,7 +5,7 @@ class LeavePage
 
   def initialize(browser)
     @browser = browser
-    @data = Data.new
+    @data = DataRecord.new
   end
 
   def clickLeaveMenu

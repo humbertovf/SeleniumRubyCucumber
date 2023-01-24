@@ -5,10 +5,10 @@ class AdminPage
 
   def initialize(browswer)
     @browser = browswer
-    @data = Data.new
+    @data = DataRecord.new
   end
 
-  @browser.div(class: ".oxd-table").hashes
+  # @browser.div(class: ".oxd-table").hashes
 
   def clickAdminMenu
     adminSideMenu.click

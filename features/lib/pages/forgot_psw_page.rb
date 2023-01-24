@@ -5,7 +5,7 @@ class ForgotPswPage
 
   def initialize(browser)
     @browser = browser
-    @data = Data.new
+    @data = DataRecord.new
   end
 
   def forgotPswUrl
